@@ -1,1 +1,1 @@
-A repository for the web scrapers I find myself writing
+A repository for the web scrapers I find myself writing sometimes.
